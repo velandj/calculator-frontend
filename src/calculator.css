@@ -1,0 +1,25 @@
+.btn{
+    padding: 7px 10px;
+    background-color:  darkturquoise;
+    border-radius: 10px;  
+    cursor: pointer;
+    transition: 0.3s ease; 
+}
+.btn:hover{
+        background-color:cyan;
+        transform: scale(1.03);
+        
+}
+.inp{
+    padding: 6px;
+    border: width 2px;;
+    margin-right: 10px;
+    border-radius: 6px;
+}
+/* .hist{
+    background-color: white;
+    color: black;
+}
+.history{
+    border: black;
+} */
